@@ -1,7 +1,7 @@
 # IEFP Rio Meão | Proposta de website
 
 **Autora:** Eliza Anjos  
-**Site publicado:** [inserir ligação do GitHub Pages]
+**Site publicado:** (https://elizanjos-hub.github.io/Redesign-IEFP/)
 
 ## Sobre o projeto
 
